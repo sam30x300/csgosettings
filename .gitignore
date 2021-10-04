@@ -1,0 +1,13 @@
+# Ignore everything
+*
+# but these files
+!.gitignore
+!autoexec.cfg
+!jumpthrow.cfg
+!mousewheeljump.cfg
+!nadepractice.cfg
+!radarscale.cfg
+!radiocommands.cfg
+!weaponkeys.cfg
+!kz.cfg
+!recoil_training.cfg
